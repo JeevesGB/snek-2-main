@@ -1,10 +1,10 @@
-Snake Game made in Python.
-#                        #
-#                        #
-#         BY JEJ         #
-#                        #
-#                        #
-#                        #    
+# Snake Game made in Python. #
+#                            #
+#                            #
+#             BY JEJ         #
+#                            #
+#                            #
+#                            #    
 
 
 
